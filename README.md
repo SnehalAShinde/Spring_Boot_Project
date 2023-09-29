@@ -1,7 +1,8 @@
 
 #  SS-Beauty-Products Business Management Web Application : <br>
 
-<img width="960" alt="Home Page" src="https://github.com/SnehalAShinde/SS-Beauty-Products/assets/126142130/97129941-f081-4a49-a1d1-d907d2687394">
+
+<img width="960" alt="Home Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/3e29d81e-ac4d-4e4c-98fe-9aaf600867a3">
 
 
 ## Project Desc : Business Management Web Application 
@@ -63,19 +64,23 @@ spring.jpa.hibernate.ddl-auto=update <br>
 ## Preview :
 
 #### Products 
-<img width="960" alt="Product Page" src="https://github.com/SnehalAShinde/SS-Beauty-Products/assets/126142130/cb7fea22-6981-4764-afa0-4f33bc2ad7a5">
+<img width="960" alt="Product Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
+
 
 
 #### Location 
-<img width="960" alt="Location page" src="https://github.com/SnehalAShinde/SS-Beauty-Products/assets/126142130/c22e4cb2-68a8-416f-851e-44dd11d35e5a">
+
+<img width="960" alt="Location page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/880e2a07-f155-4f22-baa6-ce7a5377a379">
 
 
 #### Login Page
 
-<img width="960" alt="Login Page" src="https://github.com/SnehalAShinde/SS-Beauty-Products/assets/126142130/c2cfaf54-f2ab-4d42-a815-a66254516d9e">
+<img width="960" alt="Login Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/29641b29-9181-4ac9-8037-5740baf269ff">
+
 
 #### AdminPanel
-<img width="960" alt="Admin Page" src="https://github.com/SnehalAShinde/SS-Beauty-Products/assets/126142130/9537b47d-1dd9-48eb-9334-05f922255ed2">
 
+
+<img width="960" alt="Admin Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/54684ea2-e0f0-456f-9c35-d98b0a30e3e1">
 
 
