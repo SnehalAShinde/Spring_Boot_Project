@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.com">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+	<link rel="stylesheet" href="" th:href="@{/css/Admin_page.css}" />
+    <link rel="stylesheet" href="" th:href="@{/css/All_Product.css}"/>
+
+</head>
+<body>
+	
+	<a class="back" href="/home">Back to Home</a>
+	<center>
+		<!--<section class="tables">-->
+			
+<div class="products" >
+				<h2> Available Products :</h2>
+				<table>
+					<tr>
+						<th>Product_Id</th>
+						<th>Product_Name</th>
+						<th>Product_Price</th>
+						<th>Product_Description</th>
+						<th>Select_Product</th>
+						
+					</tr>
+					<tr th:each="product :${products}">
+					    <td th:text="${product.pid}"></td>
+						<td th:text="${product.pname}"></td>
+						<td th:text="${product.pprice}"></td>
+						<td th:text="${product.pdescription}"></td>
+						<td><input type="checkbox">choice</td>
+					</tr>
+				</table>
+				<a href="" class="btns" th:href="@{/selecting}">Product_Selected</a>
+				
+</div>
+		<!--</section>-->
+	</center>
+</body>
+</html>

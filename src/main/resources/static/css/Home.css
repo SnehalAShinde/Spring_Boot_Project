@@ -1,0 +1,23 @@
+body
+{
+	background-image: url("/Images/logo-color.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+.back
+{
+	position: relative;
+	bottom: 200px;
+	margin-top: 1px;
+	border: 1px black solid;
+}
+.text
+{
+	position: relative;
+	top: 300px;
+	font-family: sans-serif;
+	font-weight: bolder;
+
+
+}

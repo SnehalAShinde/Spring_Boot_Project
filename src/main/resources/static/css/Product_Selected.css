@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body{
+	background-color: rgb(192, 192, 192);
+	
+}
+
+.success{
+	text-align: center;
+	margin-top: 170px;
+}
+h1{
+	color: rgb(128, 0, 0);
+}
+h3{
+	color: rgb(0, 0, 160);
+}
+h4{
+	color: crimson;
+}

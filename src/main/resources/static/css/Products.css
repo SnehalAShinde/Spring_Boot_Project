@@ -1,0 +1,41 @@
+body
+{
+	background-image: url("/Images/backgroundBlack.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+    
+   .p2{
+	   
+        display: flex;
+        padding: 0px;
+        background-color: rgb(161, 240, 158);
+    }
+    
+  img{
+	  height: 300px;
+	  width: 300px;
+	  border-radius: 8px;
+  }
+  img:hover{
+	  transform: scale(1.1);
+	  transition: all 1s;
+  }
+  h3,h4{
+	  text-align: center;
+	  
+  }
+  h3:hover{
+	  color:brown;
+	    transform: scale(1.1);
+        transition: all 1s;
+  }
+  h4:hover{
+	  color: brown;
+	 transform: scale(1.1);
+	 transition: all 1s;
+  }
+  section{
+	  padding: 5px;
+	  
+  }

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8" />
+	<title>Add : Admin</title>
+		<link rel="stylesheet" href="" th:href="@{/css/Add_Admin.css}"/>
+
+</head>
+<body>
+	<a href="/services">Back to Services</a>
+	<div class="addAdmin">
+		<h3 style="color: red;">ADD NEW ADMIN/PARTNER</h3>
+		<form action="" th:action="@{/addingAdmin}" method="post">
+			Admin_Name :
+			<input type="text" name="adminName" placeholder="Enter name..."/><br />
+			Admin_Email :
+			<input type="email" name="adminEmail" placeholder="Enter email..."/><br />
+			Admin_Number :
+			<input type="text" name="adminNumber" placeholder="Enter number..."/><br />
+			
+			<button type="submit">Add_Admin</button>
+		</form>
+	</div>
+</body>
+</html>
