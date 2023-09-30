@@ -31,11 +31,13 @@
 ## Installation :
 
 1. Clone the repository : $ git clone https://github.com/SnehalAShinde/Spring_Boot_Project.git <br>
+           OR
+   Download the zip
 
-2. Import the project inside STS/Eclipse : <br>
+1. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
      
-3. Make sure you are in the SS_Beauty_Products directory. <br>
+2. Make sure you are in the SS_Beauty_Products directory. <br>
 
 4.Configure the database connection in application.properties (check the Database section for more information). <br>
 
